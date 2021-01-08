@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="slackTestingWithAppium" guice-stage="DEVELOPMENT">
+  <test thread-count="1" name="Slack Login Test" verbose="2">
+    <classes>
+      <class name="com.testRepo.TestCase01"/>
+    </classes>
+  </test> <!-- Default test -->
+</suite> <!-- Default suite -->

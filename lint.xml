@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+
+    <!-- Ignore the ObsoleteLayoutParam issue in the specified files -->
+    <issue id="ObsoleteLayoutParam">
+        <ignore path="./pom.xml" />
+        <ignore path="./testng.xml" />
+    </issue>
+
+    <!-- Ignore the UselessLeaf issue in the specified file -->
+    <issue id="UselessLeaf">
+        <ignore path="./src/main/java" />
+    </issue>
+
+    <!-- Change the severity of hardcoded strings to "error" -->
+    <issue id="HardcodedText" severity="error" />
+</lint>

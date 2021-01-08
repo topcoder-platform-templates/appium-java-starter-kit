@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Uses the title as key and usingStr as value for locating the elements-->
+<using>
+	<usingText title="LoginButton">
+		<usingStr>//*[@id='btnLogin']</usingStr>
+	</usingText>
+	<usingText title="UsernameTextbox">
+		<usingStr>txtUsername</usingStr>
+	</usingText>
+	<usingText title="PasswordTextbox">
+		<usingStr>txtPassword</usingStr>
+	</usingText>
+	<usingText title="Message">
+		<usingStr>//span[@id='spanMessage']</usingStr>
+	</usingText>
+</using>

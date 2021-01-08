@@ -1,0 +1,17 @@
+com\environmentalSetup\EnviSetup.class
+com\utilities\EnumConstants$Orientation.class
+com\utilities\EnumConstants.class
+com\testRepo\TestMaster.class
+com\utilities\ApkLauncher.class
+com\utilities\EnumConstants$Direction.class
+com\baseRepo\Configuration.class
+com\pageRepo\LoginPage.class
+com\utilities\PropertiesFileReader.class
+com\utilities\EnumConstants$Mode.class
+com\utilities\ExtentReportsClass.class
+com\testRepo\TestSnapListener.class
+com\testRepo\TestCase01.class
+com\baseRepo\BaseParent.class
+com\pageRepo\HomePage.class
+com\utilities\GlobalVariables.class
+com\baseRepo\Constant.class
