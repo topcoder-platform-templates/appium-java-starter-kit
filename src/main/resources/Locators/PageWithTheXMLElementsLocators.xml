@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Uses the title as key and usingStr as value for locating the elements-->
+<usingTexts>
+	<usingText title="accesabilityId">
+		<usingStr>//android.widget.TextView[@text = 'Accessibility']</usingStr>
+	</usingText>
+
+</usingTexts>

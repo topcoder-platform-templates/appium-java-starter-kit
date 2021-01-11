@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="4" passed="2" failed="1" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[<li style ="background: #00FF7F; padding: 2px; font-size: 13px; margin-left: 20px; list-style-type: square; list-style-position: inside;color: #4B0082;" > <span style="color:black">11:02:40</span>   >   waited for 0 seconds for loading page.</li>]]>
+    </line>
+    <line>
+      <![CDATA[<hr style ="width: 80%; color: #800000" >]]>
+    </line>
+    <line>
+      <![CDATA[<li style ="background: #00FF7F; padding: 2px; font-size: 13px; margin-left: 20px; list-style-type: square; list-style-position: inside;color: #4B0082;" > <span style="color:black">11:02:42</span>   >   I clicked 'SIGN IN'.</li>]]>
+    </line>
+    <line>
+      <![CDATA[<hr style ="width: 80%; color: #800000" >]]>
+    </line>
+    <line>
+      <![CDATA[<li style ="background: #00FF7F; padding: 2px; font-size: 13px; margin-left: 20px; list-style-type: square; list-style-position: inside;color: #4B0082;" > <span style="color:black">11:02:44</span>   >   I clicked 'I'll sign in manually'.</li>]]>
+    </line>
+    <line>
+      <![CDATA[<hr style ="width: 80%; color: #800000" >]]>
+    </line>
+    <line>
+      <![CDATA[<li style ="background: #00FF7F; padding: 2px; font-size: 13px; margin-left: 20px; list-style-type: square; list-style-position: inside;color: #4B0082;" > <span style="color:black">11:02:52</span>   >   I typed 'skillbuilderworkspace' to the 'WORKSAPCE URL' field.</li>]]>
+    </line>
+    <line>
+      <![CDATA[<hr style ="width: 80%; color: #800000" >]]>
+    </line>
+    <line>
+      <![CDATA[<li style ="background: #00FF7F; padding: 2px; font-size: 13px; margin-left: 20px; list-style-type: square; list-style-position: inside;color: #4B0082;" > <span style="color:black">11:02:53</span>   >   I clicked 'Next'.</li>]]>
+    </line>
+    <line>
+      <![CDATA[<hr style ="width: 80%; color: #800000" >]]>
+    </line>
+    <line>
+      <![CDATA[<li style ="background: #00FF7F; padding: 2px; font-size: 13px; margin-left: 20px; list-style-type: square; list-style-position: inside;color: #4B0082;" > <span style="color:black">11:03:00</span>   >   I typed 'mailmemakar@gmail.com' to the 'EMAIL ADDRESS' field.</li>]]>
+    </line>
+    <line>
+      <![CDATA[<hr style ="width: 80%; color: #800000" >]]>
+    </line>
+    <line>
+      <![CDATA[<li style ="background: #00FF7F; padding: 2px; font-size: 13px; margin-left: 20px; list-style-type: square; list-style-position: inside;color: #4B0082;" > <span style="color:black">11:03:01</span>   >   I clicked 'Next'.</li>]]>
+    </line>
+    <line>
+      <![CDATA[<hr style ="width: 80%; color: #800000" >]]>
+    </line>
+    <line>
+      <![CDATA[<li style ="background: #00FF7F; padding: 2px; font-size: 13px; margin-left: 20px; list-style-type: square; list-style-position: inside;color: #4B0082;" > <span style="color:black">11:03:03</span>   >   I clicked 'Visibility Eye for show password'.</li>]]>
+    </line>
+    <line>
+      <![CDATA[<hr style ="width: 80%; color: #800000" >]]>
+    </line>
+    <line>
+      <![CDATA[<li style ="background: #00FF7F; padding: 2px; font-size: 13px; margin-left: 20px; list-style-type: square; list-style-position: inside;color: #4B0082;" > <span style="color:black">11:03:09</span>   >   I typed 'Security' to the 'PASSWORD FIELD' field.</li>]]>
+    </line>
+    <line>
+      <![CDATA[<hr style ="width: 80%; color: #800000" >]]>
+    </line>
+    <line>
+      <![CDATA[<li style ="background: #00FF7F; padding: 2px; font-size: 13px; margin-left: 20px; list-style-type: square; list-style-position: inside;color: #4B0082;" > <span style="color:black">11:03:09</span>   >   I forgot to uncheck the 'show password' option, Unchecking now the 'Show Password'.</li>]]>
+    </line>
+    <line>
+      <![CDATA[<hr style ="width: 80%; color: #800000" >]]>
+    </line>
+    <line>
+      <![CDATA[<li style ="background: #00FF7F; padding: 2px; font-size: 13px; margin-left: 20px; list-style-type: square; list-style-position: inside;color: #4B0082;" > <span style="color:black">11:03:16</span>   >   I typed 'Topcod****' to the 'PASSWORD FIELD' field.</li>]]>
+    </line>
+    <line>
+      <![CDATA[<hr style ="width: 80%; color: #800000" >]]>
+    </line>
+    <line>
+      <![CDATA[<li style ="background: #00FF7F; padding: 2px; font-size: 13px; margin-left: 20px; list-style-type: square; list-style-position: inside;color: #4B0082;" > <span style="color:black">11:03:17</span>   >   I clicked 'Next Button'.</li>]]>
+    </line>
+    <line>
+      <![CDATA[<hr style ="width: 80%; color: #800000" >]]>
+    </line>
+    <line>
+      <![CDATA[<li style ="background: #00FF7F; padding: 2px; font-size: 13px; margin-left: 20px; list-style-type: square; list-style-position: inside;color: #4B0082;" > <span style="color:black">11:03:37</span>   >   waited for 3 seconds for loading page.</li>]]>
+    </line>
+    <line>
+      <![CDATA[<hr style ="width: 80%; color: #800000" >]]>
+    </line>
+    <line>
+      <![CDATA[<li style ="background: #00FF7F; padding: 2px; font-size: 13px; margin-left: 20px; list-style-type: square; list-style-position: inside;color: #4B0082;" > <span style="color:black">11:03:37</span>   >   I completed with the Login process successfully.</li>]]>
+    </line>
+    <line>
+      <![CDATA[<hr style ="width: 80%; color: #800000" >]]>
+    </line>
+    <line>
+      <![CDATA[<li style ="background: #00FF7F; padding: 2px; font-size: 13px; margin-left: 20px; list-style-type: square; list-style-position: inside;color: #4B0082;" > <span style="color:black">11:03:48</span>   >   Skill Builder appears at Home Screen.</li>]]>
+    </line>
+    <line>
+      <![CDATA[<hr style ="width: 80%; color: #800000" >]]>
+    </line>
+    <line>
+      <![CDATA[<li style ="background: #00FF7F; padding: 2px; font-size: 13px; margin-left: 20px; list-style-type: square; list-style-position: inside;color: #4B0082;" > <span style="color:black">11:03:49</span>   >   Screen Orientation is set to LANDSCAPE.</li>]]>
+    </line>
+    <line>
+      <![CDATA[<hr style ="width: 80%; color: #800000" >]]>
+    </line>
+    <line>
+      <![CDATA[<span style="color:red"> Test failed for  <strong>testCase02 Class, </strong></span> <a style="background: red;" href='D:\JAVAEE\Workspace1\AndroidAutomationWithJava\target\surefire-reports\failure_screenshots\testCase02_27_12_2020_11_03_51.png'> <img src='D:\JAVAEE\Workspace1\AndroidAutomationWithJava\target\surefire-reports\failure_screenshots\testCase02_27_12_2020_11_03_51.png' height='100' width='100'/> </a>]]>
+    </line>
+    <line>
+      <![CDATA[<li style ="background: #00FF7F; padding: 2px; font-size: 13px; margin-left: 20px; list-style-type: square; list-style-position: inside;color: #4B0082;" > <span style="color:black">11:03:55</span>   >   This is Test Error Log.</li>]]>
+    </line>
+    <line>
+      <![CDATA[<hr style ="width: 80%; color: #800000" >]]>
+    </line>
+    <line>
+      <![CDATA[<li style ="background: #00FF7F; padding: 2px; font-size: 13px; margin-left: 20px; list-style-type: square; list-style-position: inside;color: #4B0082;" > <span style="color:black">11:03:55</span>   >   This is Test info.</li>]]>
+    </line>
+    <line>
+      <![CDATA[<hr style ="width: 80%; color: #800000" >]]>
+    </line>
+    <line>
+      <![CDATA[<li style ="background: #00FF7F; padding: 2px; font-size: 13px; margin-left: 20px; list-style-type: square; list-style-position: inside;color: #4B0082;" > <span style="color:black">11:03:55</span>   >   This is Test Warning Log.</li>]]>
+    </line>
+    <line>
+      <![CDATA[<hr style ="width: 80%; color: #800000" >]]>
+    </line>
+    <line>
+      <![CDATA[<li style ="background: #00FF7F; padding: 2px; font-size: 13px; margin-left: 20px; list-style-type: square; list-style-position: inside;color: #4B0082;" > <span style="color:black">11:03:55</span>   >   This is Test Default Log With Number 9.</li>]]>
+    </line>
+    <line>
+      <![CDATA[<hr style ="width: 80%; color: #800000" >]]>
+    </line>
+    <line>
+      <![CDATA[<li style ="background: #00FF7F; padding: 2px; font-size: 13px; margin-left: 20px; list-style-type: square; list-style-position: inside;color: #4B0082;" > <span style="color:black">11:03:55</span>   >   This is Test Fatal Log.</li>]]>
+    </line>
+    <line>
+      <![CDATA[<hr style ="width: 80%; color: #800000" >]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2020-12-27T23:02:16 IST" name="slackTestingWithAppium" finished-at="2020-12-27T23:03:55 IST" duration-ms="99492">
+    <groups>
+    </groups>
+    <test started-at="2020-12-27T23:02:16 IST" name="Slack Login Test" finished-at="2020-12-27T23:03:55 IST" duration-ms="99492">
+      <class name="com.testRepo.TestCase01">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:com.testRepo.TestCase01@44821a96]" started-at="2020-12-27T23:02:15 IST" name="beforeSuite" finished-at="2020-12-27T23:02:16 IST" duration-ms="269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:com.testRepo.TestCase01@44821a96]" started-at="2020-12-27T23:02:16 IST" name="beforeTest" finished-at="2020-12-27T23:02:16 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:com.testRepo.TestCase01@44821a96]" started-at="2020-12-27T23:02:16 IST" name="beforeClass" finished-at="2020-12-27T23:02:29 IST" duration-ms="12874" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.testRepo.TestCase01@44821a96]" started-at="2020-12-27T23:02:29 IST" name="beforeMethod" finished-at="2020-12-27T23:02:29 IST" duration-ms="8" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testRepo.TestCase01.testCase01()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testCase01()[pri:0, instance:com.testRepo.TestCase01@44821a96]" started-at="2020-12-27T23:02:29 IST" name="testCase01" description="Verify the Login process and confirm the user lands to HomePage" finished-at="2020-12-27T23:03:48 IST" duration-ms="79267" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<li style ="background: #00FF7F; padding: 2px; font-size: 13px; margin-left: 20px; list-style-type: square; list-style-position: inside;color: #4B0082;" > <span style="color:black">11:02:40</span>   >   waited for 0 seconds for loading page.</li>]]>
+            </line>
+            <line>
+              <![CDATA[<hr style ="width: 80%; color: #800000" >]]>
+            </line>
+            <line>
+              <![CDATA[<li style ="background: #00FF7F; padding: 2px; font-size: 13px; margin-left: 20px; list-style-type: square; list-style-position: inside;color: #4B0082;" > <span style="color:black">11:02:42</span>   >   I clicked 'SIGN IN'.</li>]]>
+            </line>
+            <line>
+              <![CDATA[<hr style ="width: 80%; color: #800000" >]]>
+            </line>
+            <line>
+              <![CDATA[<li style ="background: #00FF7F; padding: 2px; font-size: 13px; margin-left: 20px; list-style-type: square; list-style-position: inside;color: #4B0082;" > <span style="color:black">11:02:44</span>   >   I clicked 'I'll sign in manually'.</li>]]>
+            </line>
+            <line>
+              <![CDATA[<hr style ="width: 80%; color: #800000" >]]>
+            </line>
+            <line>
+              <![CDATA[<li style ="background: #00FF7F; padding: 2px; font-size: 13px; margin-left: 20px; list-style-type: square; list-style-position: inside;color: #4B0082;" > <span style="color:black">11:02:52</span>   >   I typed 'skillbuilderworkspace' to the 'WORKSAPCE URL' field.</li>]]>
+            </line>
+            <line>
+              <![CDATA[<hr style ="width: 80%; color: #800000" >]]>
+            </line>
+            <line>
+              <![CDATA[<li style ="background: #00FF7F; padding: 2px; font-size: 13px; margin-left: 20px; list-style-type: square; list-style-position: inside;color: #4B0082;" > <span style="color:black">11:02:53</span>   >   I clicked 'Next'.</li>]]>
+            </line>
+            <line>
+              <![CDATA[<hr style ="width: 80%; color: #800000" >]]>
+            </line>
+            <line>
+              <![CDATA[<li style ="background: #00FF7F; padding: 2px; font-size: 13px; margin-left: 20px; list-style-type: square; list-style-position: inside;color: #4B0082;" > <span style="color:black">11:03:00</span>   >   I typed 'mailmemakar@gmail.com' to the 'EMAIL ADDRESS' field.</li>]]>
+            </line>
+            <line>
+              <![CDATA[<hr style ="width: 80%; color: #800000" >]]>
+            </line>
+            <line>
+              <![CDATA[<li style ="background: #00FF7F; padding: 2px; font-size: 13px; margin-left: 20px; list-style-type: square; list-style-position: inside;color: #4B0082;" > <span style="color:black">11:03:01</span>   >   I clicked 'Next'.</li>]]>
+            </line>
+            <line>
+              <![CDATA[<hr style ="width: 80%; color: #800000" >]]>
+            </line>
+            <line>
+              <![CDATA[<li style ="background: #00FF7F; padding: 2px; font-size: 13px; margin-left: 20px; list-style-type: square; list-style-position: inside;color: #4B0082;" > <span style="color:black">11:03:03</span>   >   I clicked 'Visibility Eye for show password'.</li>]]>
+            </line>
+            <line>
+              <![CDATA[<hr style ="width: 80%; color: #800000" >]]>
+            </line>
+            <line>
+              <![CDATA[<li style ="background: #00FF7F; padding: 2px; font-size: 13px; margin-left: 20px; list-style-type: square; list-style-position: inside;color: #4B0082;" > <span style="color:black">11:03:09</span>   >   I typed 'Security' to the 'PASSWORD FIELD' field.</li>]]>
+            </line>
+            <line>
+              <![CDATA[<hr style ="width: 80%; color: #800000" >]]>
+            </line>
+            <line>
+              <![CDATA[<li style ="background: #00FF7F; padding: 2px; font-size: 13px; margin-left: 20px; list-style-type: square; list-style-position: inside;color: #4B0082;" > <span style="color:black">11:03:09</span>   >   I forgot to uncheck the 'show password' option, Unchecking now the 'Show Password'.</li>]]>
+            </line>
+            <line>
+              <![CDATA[<hr style ="width: 80%; color: #800000" >]]>
+            </line>
+            <line>
+              <![CDATA[<li style ="background: #00FF7F; padding: 2px; font-size: 13px; margin-left: 20px; list-style-type: square; list-style-position: inside;color: #4B0082;" > <span style="color:black">11:03:16</span>   >   I typed 'Topcod****' to the 'PASSWORD FIELD' field.</li>]]>
+            </line>
+            <line>
+              <![CDATA[<hr style ="width: 80%; color: #800000" >]]>
+            </line>
+            <line>
+              <![CDATA[<li style ="background: #00FF7F; padding: 2px; font-size: 13px; margin-left: 20px; list-style-type: square; list-style-position: inside;color: #4B0082;" > <span style="color:black">11:03:17</span>   >   I clicked 'Next Button'.</li>]]>
+            </line>
+            <line>
+              <![CDATA[<hr style ="width: 80%; color: #800000" >]]>
+            </line>
+            <line>
+              <![CDATA[<li style ="background: #00FF7F; padding: 2px; font-size: 13px; margin-left: 20px; list-style-type: square; list-style-position: inside;color: #4B0082;" > <span style="color:black">11:03:37</span>   >   waited for 3 seconds for loading page.</li>]]>
+            </line>
+            <line>
+              <![CDATA[<hr style ="width: 80%; color: #800000" >]]>
+            </line>
+            <line>
+              <![CDATA[<li style ="background: #00FF7F; padding: 2px; font-size: 13px; margin-left: 20px; list-style-type: square; list-style-position: inside;color: #4B0082;" > <span style="color:black">11:03:37</span>   >   I completed with the Login process successfully.</li>]]>
+            </line>
+            <line>
+              <![CDATA[<hr style ="width: 80%; color: #800000" >]]>
+            </line>
+            <line>
+              <![CDATA[<li style ="background: #00FF7F; padding: 2px; font-size: 13px; margin-left: 20px; list-style-type: square; list-style-position: inside;color: #4B0082;" > <span style="color:black">11:03:48</span>   >   Skill Builder appears at Home Screen.</li>]]>
+            </line>
+            <line>
+              <![CDATA[<hr style ="width: 80%; color: #800000" >]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testCase01 -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.testRepo.TestCase01@44821a96]" started-at="2020-12-27T23:03:48 IST" name="afterMethod" finished-at="2020-12-27T23:03:49 IST" duration-ms="1167" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testCase01 status=SUCCESS method=TestCase01.testCase01()[pri:0, instance:com.testRepo.TestCase01@44821a96] output=<li style ="background: #00FF7F; padding: 2px; font-size: 13px; margin-left: 20px; list-style-type: square; list-style-position: inside;color: #4B0082;" > <span style="color:black">11:02:40</span>   >   waited for 0 seconds for loading page.</li>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.testRepo.TestCase01@44821a96]" started-at="2020-12-27T23:03:49 IST" name="beforeMethod" finished-at="2020-12-27T23:03:49 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testRepo.TestCase01.testCase02()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testCase02()[pri:1, instance:com.testRepo.TestCase01@44821a96]" started-at="2020-12-27T23:03:49 IST" name="testCase02" description="Verify the screen Orienatation and capture the screenshot" finished-at="2020-12-27T23:03:51 IST" duration-ms="1577" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertTrue(Assert.java:45)
+at org.testng.Assert.assertTrue(Assert.java:55)
+at com.testRepo.TestCase01.testCase02(TestCase01.java:51)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:132)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:599)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:174)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:822)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:147)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:764)
+at org.testng.TestRunner.run(TestRunner.java:585)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1218)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1140)
+at org.testng.TestNG.runSuites(TestNG.java:1069)
+at org.testng.TestNG.run(TestNG.java:1037)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:178)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:96)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray2(ReflectionUtils.java:208)
+at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:159)
+at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:87)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:95)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[<li style ="background: #00FF7F; padding: 2px; font-size: 13px; margin-left: 20px; list-style-type: square; list-style-position: inside;color: #4B0082;" > <span style="color:black">11:03:49</span>   >   Screen Orientation is set to LANDSCAPE.</li>]]>
+            </line>
+            <line>
+              <![CDATA[<hr style ="width: 80%; color: #800000" >]]>
+            </line>
+            <line>
+              <![CDATA[<span style="color:red"> Test failed for  <strong>testCase02 Class, </strong></span> <a style="background: red;" href='D:\JAVAEE\Workspace1\AndroidAutomationWithJava\target\surefire-reports\failure_screenshots\testCase02_27_12_2020_11_03_51.png'> <img src='D:\JAVAEE\Workspace1\AndroidAutomationWithJava\target\surefire-reports\failure_screenshots\testCase02_27_12_2020_11_03_51.png' height='100' width='100'/> </a>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testCase02 -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.testRepo.TestCase01@44821a96]" started-at="2020-12-27T23:03:53 IST" name="afterMethod" finished-at="2020-12-27T23:03:55 IST" duration-ms="2145" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testCase02 status=FAILURE method=TestCase01.testCase02()[pri:1, instance:com.testRepo.TestCase01@44821a96] output=<li style ="background: #00FF7F; padding: 2px; font-size: 13px; margin-left: 20px; list-style-type: square; list-style-position: inside;color: #4B0082;" > <span style="color:black">11:03:49</span>   >   Screen Orientation is set to LANDSCAPE.</li>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.testRepo.TestCase01@44821a96]" started-at="2020-12-27T23:03:55 IST" name="beforeMethod" finished-at="2020-12-27T23:03:55 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.testRepo.TestCase01.testCase03()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testCase03()[pri:3, instance:com.testRepo.TestCase01@44821a96]" started-at="2020-12-27T23:03:55 IST" name="testCase03" description="Verify the log status printed as per the status code" finished-at="2020-12-27T23:03:55 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[<li style ="background: #00FF7F; padding: 2px; font-size: 13px; margin-left: 20px; list-style-type: square; list-style-position: inside;color: #4B0082;" > <span style="color:black">11:03:55</span>   >   This is Test Error Log.</li>]]>
+            </line>
+            <line>
+              <![CDATA[<hr style ="width: 80%; color: #800000" >]]>
+            </line>
+            <line>
+              <![CDATA[<li style ="background: #00FF7F; padding: 2px; font-size: 13px; margin-left: 20px; list-style-type: square; list-style-position: inside;color: #4B0082;" > <span style="color:black">11:03:55</span>   >   This is Test info.</li>]]>
+            </line>
+            <line>
+              <![CDATA[<hr style ="width: 80%; color: #800000" >]]>
+            </line>
+            <line>
+              <![CDATA[<li style ="background: #00FF7F; padding: 2px; font-size: 13px; margin-left: 20px; list-style-type: square; list-style-position: inside;color: #4B0082;" > <span style="color:black">11:03:55</span>   >   This is Test Warning Log.</li>]]>
+            </line>
+            <line>
+              <![CDATA[<hr style ="width: 80%; color: #800000" >]]>
+            </line>
+            <line>
+              <![CDATA[<li style ="background: #00FF7F; padding: 2px; font-size: 13px; margin-left: 20px; list-style-type: square; list-style-position: inside;color: #4B0082;" > <span style="color:black">11:03:55</span>   >   This is Test Default Log With Number 9.</li>]]>
+            </line>
+            <line>
+              <![CDATA[<hr style ="width: 80%; color: #800000" >]]>
+            </line>
+            <line>
+              <![CDATA[<li style ="background: #00FF7F; padding: 2px; font-size: 13px; margin-left: 20px; list-style-type: square; list-style-position: inside;color: #4B0082;" > <span style="color:black">11:03:55</span>   >   This is Test Fatal Log.</li>]]>
+            </line>
+            <line>
+              <![CDATA[<hr style ="width: 80%; color: #800000" >]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testCase03 -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.testRepo.TestCase01@44821a96]" started-at="2020-12-27T23:03:55 IST" name="afterMethod" finished-at="2020-12-27T23:03:55 IST" duration-ms="25" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testCase03 status=SUCCESS method=TestCase01.testCase03()[pri:3, instance:com.testRepo.TestCase01@44821a96] output=<li style ="background: #00FF7F; padding: 2px; font-size: 13px; margin-left: 20px; list-style-type: square; list-style-position: inside;color: #4B0082;" > <span style="color:black">11:03:55</span>   >   This is Test Error Log.</li>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.testRepo.TestCase01@44821a96]" started-at="2020-12-27T23:03:55 IST" name="afterClass" finished-at="2020-12-27T23:03:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:com.testRepo.TestCase01@44821a96]" started-at="2020-12-27T23:03:55 IST" name="afterTest" finished-at="2020-12-27T23:03:55 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:com.testRepo.TestCase01@44821a96]" started-at="2020-12-27T23:03:55 IST" name="afterSuite" finished-at="2020-12-27T23:03:59 IST" duration-ms="3845" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.testRepo.TestCase01 -->
+    </test> <!-- Slack Login Test -->
+  </suite> <!-- slackTestingWithAppium -->
+</testng-results>
